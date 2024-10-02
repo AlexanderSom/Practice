@@ -1,1 +1,1 @@
-"This is the Practice Project for INFO 350."
+"This is the Practice Project for INFO 530."
